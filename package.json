@@ -1,0 +1,19 @@
+{
+  "name": "promise-chaining",
+  "version": "1.0.0",
+  "description": "This is a sandbox project to make sure that I understand what will happen when there are layers of promises that depend on each other.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
